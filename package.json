@@ -1,0 +1,22 @@
+{
+  "name": "nodejsblog",
+  "version": "1.0.0",
+  "description": "\"BLog website created with node js and express\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "blog",
+    "express"
+  ],
+  "author": "eneas",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.14"
+  }
+}
